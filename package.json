@@ -1,0 +1,22 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.utwente.nl/s2426447/module_6-project"
+  },
+  "author": "Vladimir Halchenko",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^13.1.9"
+  },
+  "dependencies": {
+    "python-shell": "^3.0.1"
+  }
+}
